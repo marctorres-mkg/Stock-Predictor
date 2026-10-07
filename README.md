@@ -107,7 +107,7 @@ This downloads the historical market data, prepares the dataset, trains the neur
 
 ## Testing
 
-Run:
+Once `model.pkl` is created, run:
 
 ```bash
 python testing.py
