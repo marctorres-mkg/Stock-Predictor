@@ -78,14 +78,13 @@ This project was developed as a practical exploration of:
 ## Project Structure
 
 ```text
-Stock-Predictor-Neural-Network/
+Stock-Predictor/
 │
 ├── README.md
 ├── requirements.txt
 ├── functions.py
 ├── training.py
-├── testing.py
-└── model.pkl
+└── testing.py
 ```
 
 ## Installation
