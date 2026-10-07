@@ -1,4 +1,4 @@
-# MONEY MAKER DEEP LEARNING MODEL
+# DEEP LEARNING MODEL
 from datetime import datetime
 import torch
 from functions import data_to_phi_x, split, train_model, acc
