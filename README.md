@@ -78,7 +78,7 @@ This project was developed as a practical exploration of:
 ## Project Structure
 
 ```text
-MoneyMaker-Neural-Network/
+Stock-Predictor-Neural-Network/
 │
 ├── README.md
 ├── requirements.txt
