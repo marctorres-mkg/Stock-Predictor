@@ -4,7 +4,7 @@ A personal deep learning project for predicting stock movements from historical 
 
 ## Overview
 
-Stock-Predictor Neural Network (spNN) is a personal project exploring neural networks for stock movement prediction using historical financial time-series data.
+Stock-Predictor is a personal project exploring neural networks for stock movement prediction using historical financial time-series data.
 
 The model uses daily market data from 7 technology companies:
 
